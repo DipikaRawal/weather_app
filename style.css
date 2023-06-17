@@ -5,13 +5,13 @@
     box-sizing: border-box;
 }
 body{
-    background-color: azure ;
+    background-color: #050108ec ;
 
 }
 .card{
     width: 90%;
     max-width: 500px;
-    background: linear-gradient(135deg,#bec3d0fc, #65adb2);
+    background: linear-gradient(135deg,#155c61,#5d8b91fc );
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
